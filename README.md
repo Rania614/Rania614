@@ -1,26 +1,42 @@
-Hi, I'm Rania 👋
-Frontend Developer specializing in React · TypeScript · Tailwind CSS · React Native.
-I build production-ready UIs, reusable component libraries, and multi-role dashboards.
+# Rania Abdelnasser
 
-🛠️ What I build
-Admin Dashboards — multi-role React apps with RBAC, Redux state, and REST API integration.
+**Frontend Developer | React.js · TypeScript · Next.js**
 
-Component Libraries — reusable, Atomic Design–structured React + TypeScript components.
+I build web interfaces with React and TypeScript, mostly dashboards, role-based views, and screens connected to REST APIs. I care about the parts that are easy to get wrong: loading, empty, and error states, pagination, form validation, and keeping the UI in sync with the server.
 
-Mobile UIs — cross-platform React Native screens from Figma to production
+## Stack
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/raniaabdelnasser) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Rannn22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rania-abdelnasser/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B6S5CerNNSx%2BI2z%2BrGo5HvQ%3D%3D) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@raniaabdelnasser93) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/raniaabdelnasser93/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/_Ranooon_) 
+- **Frontend (primary):** React.js, TypeScript, JavaScript (ES6+), Next.js, Tailwind CSS, Vite
+- **Mobile:** React Native, Expo
+- **Backend (freelance projects):** Node.js, Express.js, REST APIs, Prisma, PostgreSQL
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-<!--![](https://github-readme-stats.vercel.app/api?username=Rania614&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
-<!--![](https://nirzak-streak-stats.vercel.app/?user=Rania614&theme=dark&hide_border=false)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rania614&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## What I build
 
+- **Role-based dashboards:** one layout and navigation driven by the user's role.
+- **Data-heavy screens:** lists and boards with pagination, search, and clear loading, empty, and error states.
+- **Forms and flows:** multi-step forms with validation and authentication screens.
+- **Mobile screens:** React Native and Expo screens built from designs.
 
----
-[![](https://visitcount.itsvg.in/api?id=Rania614&icon=0&color=0)](https://visitcount.itsvg.in)
+## Selected projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **[rafiq-frontend](https://github.com/Rania614/rafiq-frontend):** Project management dashboard built during frontend training. Next.js, TypeScript, Tailwind CSS. Includes a task board with drag-and-drop status updates confirmed by the server, pagination that becomes infinite scroll on mobile, and debounced server-side search. The README documents four technical challenges and how I solved them.
+- **[elevante](https://github.com/Rania614/elevante):** Web demo of my ITI graduation project, where I was team lead. Next.js, TypeScript, Tailwind CSS. Covers role-based onboarding and three role dashboards that share one layout. It is a frontend demo with sample data.
+- **[Medical-Health-Mobile-App](https://github.com/Rania614/Medical-Health-Mobile-App):** UI implementation of a medical appointment app. React Native, Expo, TypeScript. Covers keyboard handling on iOS and Android, a custom Expo Router flow, and typed booking state. It is UI only, with sample data.
+
+## Experience
+
+Most of my freelance work is in private client repositories, so it is not shown on this profile.
+
+- **Full-stack (freelance):** built, deployed, and maintained an academic publishing platform, and built a patient management system with role-based access. React, Node.js, Express.js, Prisma, PostgreSQL.
+- **Frontend (freelance):** built the frontends of an engineering services platform with four role-specific dashboards and a property management dashboard, and integrated both with backends built by other developers.
+- **Training and internships:** React and TypeScript component work in team codebases, with feature branches, pull requests, and code review.
+
+## Open to work
+
+Open to Frontend Developer and React Developer roles, including remote. Also open to Junior Full-Stack (React/Node.js) roles.
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/rania-abdelnasser](https://www.linkedin.com/in/rania-abdelnasser/)
+- Email: [raniaabdelnasser93@gmail.com](mailto:raniaabdelnasser93@gmail.com)
+- GitHub: [github.com/Rania614](https://github.com/Rania614)
